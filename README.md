@@ -1,0 +1,1 @@
+Part of speech plays a very major role in NLP task as it is important to know how a word is used in every sentences.The approach used for assigning POS tagging is with the help of TnT(Trigrams ‘n’ Tags) tagger that works on Second order Markov Model. It introduces a tag set for Marathi which is used for tagging Marathi text.
